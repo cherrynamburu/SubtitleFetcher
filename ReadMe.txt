@@ -1,4 +1,4 @@
-Subtitle Fetcher by Cherry. (cherrynamburu@gamil.com) (instagram : @imurscherry)
+Subtitle Fetcher by Cherry. (cherrynamburu@gamil.com) (instagram : @cherrynamburu)
 
 It is a python script which automatically downloads subtitles for the videos present in the current directory.
 
